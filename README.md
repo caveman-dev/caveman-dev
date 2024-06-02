@@ -8,17 +8,12 @@
 
 Self-motivated individual with a keen interest in exploring new technologies and creating efficient codebases for reusability. 
 
-
-
-
 ### - Hobbies : 
 - ✨ Sketching and painting
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Football
 
-</br>
-</br>
 </br>
 
 ## 🔧 Technologies & Tools
